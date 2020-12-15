@@ -70,7 +70,7 @@
 Copy-paste this into your markdown content, and that's it. Simple!
 
 Change the `?username=` value to your GitHub's username.
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Feodoros&repo=github-readme-stats)](https://github.com/Feodoros/github-readme-stats)
 ```md
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ```
